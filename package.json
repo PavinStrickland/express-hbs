@@ -19,7 +19,7 @@
     "mocha": "~1.9.0"
   },
   "dependencies": {
-    "handlebars": "~1.0.10",
+    "handlebars": "~3.0.8",
     "glob": "~3.1.21"
   }
 }
